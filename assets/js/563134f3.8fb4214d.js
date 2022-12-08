@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklun_dao=self.webpackChunklun_dao||[]).push([[4173],{5810:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/eip-2535","name":"eip2535","count":4,"permalink":"/blog/tags/eip-2535"}')}}]);
